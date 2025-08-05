@@ -7,9 +7,9 @@ Sou estudante de Ciência da Computação (3º semestre) e estou em transição 
 - 💡 Atualmente bolsista do **Programa Desenvolve - Grupo Boticário**, onde estudo lógica de programação, estruturas de dados, IA e práticas ágeis.
 - 📊 Participei de duas **Iniciações Científicas** com foco em **dignidade menstrual**, utilizando **R** e **Iramutec** para análise de dados qualitativos.
 - 💬 Experiência com **formações em saúde** sobre raça, gênero e políticas públicas.
-- 💻 Conhecimento em **C, Python, C++**, e em desenvolvimento web com **React** e **JavaScript**.
+- 💻 Conhecimento em **java, Python, C++**, e em desenvolvimento web com **node.js** e **JavaScript**.
 - 🎓 Interesse por projetos que unam **tecnologia e impacto social** — especialmente em saúde pública, equidade de gênero e populações vulnerabilizadas.
--  🧠 Explorando tecnologias como **React, JavaScript, Python e C++**
+-  🧠 Explorando tecnologias como **node.js, JavaScript e Python. 
 - 🔧 Em constante aprendizado e construção de um portfólio com projetos de impacto.
 - 🤝 Apaixonada por trabalho em equipe, comunicação empática e aprendizado contínuo.
 
@@ -19,11 +19,11 @@ Sou estudante de Ciência da Computação (3º semestre) e estou em transição 
 | Área                | Ferramentas e Tecnologias                                         |
 |---------------------|------------------------------------------------------------------|
 | **Linguagens**       | Python, Java, C++, JavaScript                                    |
-| **Web & Mobile**     | HTML, CSS, React, React Native                                   |
-| **Dados & Pesquisa** | R, IRaMuTeQ, Excel avançado                                              |
-| **Ferramentas**      | Git, GitHub, Trello, VSCode, Canva                               |
-| **Outros**           | Metodologias Ágeis, Figma (básico), Microsoft Office             |
-| **Idiomas**          | Inglês (Intermediário), Espanhol (Básico), Português (nativo            |
+| **Web & Mobile**     | HTML, CSS, Node.js                                  |
+| **Dados & Pesquisa** | R, IRaMuTeQ, Power BI, Excel avançado                                              |
+| **Ferramentas**      | Git, GitHub, Trello, VSCode                              |
+| **Desing**           | Canva, adobe photoshop, figma            |
+| **Idiomas**          | Inglês (Intermediário), Espanhol (Básico), Português (nativo)            |
 
 ---
 
